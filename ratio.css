@@ -11,6 +11,11 @@ h1{
     color: #333;
 }
 
+h2{
+    line-height: 1.3333333;
+    color: #333;
+}
+
 /* navbar */
 .navbar {
     text-align: center;
@@ -45,3 +50,11 @@ button {
     font-family: inherit;
     font-size: 1em;
 }
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
+  
