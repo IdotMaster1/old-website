@@ -4,14 +4,21 @@
  <title>IdotMaster1's RSS Feed</title>
  <description>An RSS feed for IdotMaster1's site.</description>
  <link>https://idotmaster1.github.io</link>
- <pubDate>Sat, 26 Mar 2022 2:01PM</pubDate>
+ <pubDate>Fri, 8 April 2022 5:29PM</pubDate>
  <ttl>1800</ttl>
+
+ <item>
+    <title>Using the Surface 3 in 2022.</title>
+    <description>Using the Surface 3 tablet is 2022! Preety useful, unless you run heavy programs, then it's good as a traval companian.</description>
+    <link>https://idotmaster1.github.io/blogs/surface3.html</link>
+    <pubDate>Fri, 8 April 2022 7:04PM </pubDate>
+   </item>
 
  <item>
     <title>Fuck USPS!</title>
     <description>Me ranting about USPS. Why even the read this?</description>
     <link>https://idotmaster1.github.io/blogs/usps-the-fucker.html</link>
-    <pubDate>Thu, 17 Mar 2022 5:47PM </pubDate>
+    <pubDate>Sat, 26 Mar 2022 2:01PM </pubDate>
    </item>
 
  <item>
