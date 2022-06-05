@@ -2,8 +2,6 @@ body{
     font-family:  Helvetica, Arial, sans-serif;
     font-size: 1.3em;
     line-height: 1.42857143;
-    color: #333;
-    background-color: rgb(255, 241, 241);
 }
 
 h1{
@@ -66,10 +64,3 @@ button {
     font-family: inherit;
     font-size: 1em;
 }
-
-pre code {
-    background-color: #eee;
-    border: 1px solid #999;
-    display: block;
-    padding: 20px;
-  }
